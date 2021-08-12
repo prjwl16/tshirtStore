@@ -1,0 +1,29 @@
+.btn,
+.jumbotron,
+.nav :hover {
+    border-radius: 0px;
+}
+
+body {
+    background: #343a40;
+}
+
+.txt-dcr {
+    text-decoration: none;
+    color: white;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+}
+
+
+/* .lilfooter {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+} */
